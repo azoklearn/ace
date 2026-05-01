@@ -1,0 +1,15 @@
+<svg width="640" height="360" viewBox="0 0 640 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">TEAM ACE logo</title>
+  <desc id="desc">Logo TEAM ACE stylisé avec monogramme A orange et blanc.</desc>
+  <path d="M80 236L281 26L330 95L207 236H80Z" fill="#F7931E"/>
+  <path d="M55 236H403L439 292H21L55 236Z" fill="#F7931E"/>
+  <path d="M353 74L612 318H511L346 154L281 236H187L353 74Z" fill="#FFFFFF"/>
+  <path d="M137 262H453L489 318H98L137 262Z" fill="#FFFFFF"/>
+  <path d="M351 177L409 236H307L351 177Z" fill="#111111"/>
+  <g font-family="'Helvetica Neue', Arial, sans-serif" font-weight="300" font-size="48" letter-spacing="0">
+    <text x="176" y="352" fill="#FFFFFF">TEAM</text>
+    <path d="M377 348L399 310L421 348H407L399 334L391 348H377Z" fill="#F7931E"/>
+    <path d="M394 352H431L425 341H400L394 352Z" fill="#FFFFFF"/>
+    <text x="432" y="352" fill="#F7931E" font-weight="700">ACE</text>
+  </g>
+</svg>
